@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"allowJs": false,
+		"allowSyntheticDefaultImports": false,
+		"module": "esnext",
+		"newLine": "lf",
+		"target": "esnext",
+		"noImplicitAny": true,
+		"outDir": "./js/"
+	},
+	"include": [
+		"./ts/**/*.ts"
+	]
+}
